@@ -59,8 +59,10 @@ print(Insertionsort(arr))
 ## Output:
 
 
-![alt text](image-2.png)
-![alt text](image-3.png)
+![alt text](<Screenshot 2024-05-15 185357.png>)
+
+![alt text](image-4.png)
+
 
 
 
